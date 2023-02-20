@@ -3,7 +3,7 @@ services:
   - type: web
     name: wzmlty
     env: docker
-    region: Frankfurt
+    region: Singapore
     plan: free
     envVars:
       - key: PORT
